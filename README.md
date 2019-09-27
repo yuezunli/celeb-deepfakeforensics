@@ -30,11 +30,27 @@ Celeb-DFF
 |--- summary_release.csv # Summary of each video including [label, video name, target name, donor name]
 ```
 
-## Evaluation
+#### Evaluation
 Based on the Celeb-DFF dataset, we evaluate the performance of several recent 
 DeepFake detection methods that have code publicly available.
 
 <img src="src/eval.png" alt="eval" width="400"/>
+
+__Previous Datasets__
+* UADFV: Yang, Xin and Li, Yuezun and Lyu, Siwei. 
+"Exposing Deep Fakes Using Inconsistent Head Poses",
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019 
+
+* DeepFakeTIMIT: Korshunov, Pavel and Marcel, S{\'e}bastien.
+"DeepFakes: a New Threat to Face Recognition? Assessment and Detection",
+arXiv preprint arXiv:1812.08685, 2018
+
+* FaceForensics++ (FF++): Andreas Rössler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nießner.
+"FaceForensics++: Learning to Detect Manipulated Facial Images",
+IEEE International Conference on Computer Vision (ICCV), 2019
+
+
+__Detection Methods__  
 
 * Two-stream: Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017
@@ -71,13 +87,11 @@ and send it to [deepfakeforensics@gmail.com](). The download link will be sent y
 Please cite our paper in your publications if the DFF dataset is used in your research:
 ```
 @inproceedings{Li2019celebdff,
-	author = {},
+	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
 	title = {Celeb-DFF: A New Dataset for Celebrity DeepFake Forensics},
 	booktitle= {ArXiv},
 	year = {2019}
 }
-
 ```
-
 ## Note
 what else we need to tell?
