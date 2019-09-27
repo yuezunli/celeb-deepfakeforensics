@@ -63,9 +63,9 @@ arXiv preprint arXiv:1906.06876, 2019
 IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Download
-If you would like to access the DFF dataset, 
-please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform).
-The download link will be sent you once the form is accepted.
+If you would like to access the Celeb-DFF dataset, 
+please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
+and send it to [deepfakeforensics@gmail.com](). The download link will be sent you once the form is accepted.
 
 ## Citation
 Please cite our paper in your publications if the DFF dataset is used in your research:
