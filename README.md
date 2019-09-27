@@ -1,15 +1,15 @@
-# Celeb-DFF: A New Dataset for Celebrity DeepFake Forensics
+# Celeb-DF: A New Dataset for Celebrity DeepFake Forensics
 
 ## Overview
-**Celebrity DeepFake Forensics (Celeb-DFF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
-The Celeb-DFF dataset includes **158** real videos from youtube, and **795** DeepFake videos of human faces of different age, ethic group and gender, synthesized with these real videos. 
+**Celebrity DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
+The Celeb-DF dataset includes **158** real videos from youtube, and **795** DeepFake videos of human faces of different age, ethic group and gender, synthesized with these real videos. 
 
 The demo video can be viewed here:
 
 [![youtubev_video](https://img.youtube.com/.jpg)](https://www.youtube.com/)
 
 
-## DFF Dataset
+## Celeb-DF Dataset
 #### Real Videos
 The real videos are collected from YouTube, which are split into two sets. 
 The first set (*Real<sub>1</sub>*) contains 158 videos of 13 celebrities including 
@@ -22,7 +22,7 @@ to create synthesized videos using the synthesis model trained between this targ
 
 #### Dataset Structure
 ```commandline
-Celeb-DFF
+Celeb-DF
 |--- Real_1 
 |--- Real_2
 |--- deepfake # Synthesized videos from Real_1
@@ -31,7 +31,7 @@ Celeb-DFF
 ```
 
 #### Evaluation
-Based on the Celeb-DFF dataset, we evaluate the performance of several recent 
+Based on the Celeb-DF dataset, we evaluate the performance of several recent 
 DeepFake detection methods that have code publicly available.
 
 <img src="src/eval.png" alt="eval" width="400"/>
@@ -41,7 +41,7 @@ __Previous Datasets__
 "Exposing Deep Fakes Using Inconsistent Head Poses",
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019 
 
-* DeepFakeTIMIT: Korshunov, Pavel and Marcel, S{\'e}bastien.
+* DeepFake-TIMIT: Korshunov, Pavel and Marcel, Sebastien.
 "DeepFakes: a New Threat to Face Recognition? Assessment and Detection",
 arXiv preprint arXiv:1812.08685, 2018
 
@@ -79,16 +79,16 @@ arXiv preprint arXiv:1906.06876, 2019
 IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Download
-If you would like to access the Celeb-DFF dataset, 
+If you would like to access the Celeb-DF dataset, 
 please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
 and send it to [deepfakeforensics@gmail.com](). The download link will be sent you once the form is accepted.
 
 ## Citation
-Please cite our paper in your publications if the DFF dataset is used in your research:
+Please cite our [paper]() in your publications if the DFF dataset is used in your research:
 ```
 @inproceedings{Li2019celebdff,
 	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
-	title = {Celeb-DFF: A New Dataset for Celebrity DeepFake Forensics},
+	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
 	booktitle= {ArXiv},
 	year = {2019}
 }
