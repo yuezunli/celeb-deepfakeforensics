@@ -1,19 +1,18 @@
-# Celeb-DF: A New Dataset for Celebrity DeepFake Forensics
+# Celeb-DF: A New Dataset for DeepFake Forensics
 
 ## Overview
-**Celebrity DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
-The Celeb-DF dataset includes **158** real videos from youtube, and **795** DeepFake videos of human faces of different age, ethic group and gender, synthesized with these real videos. 
+**DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
+The Celeb-DF dataset includes 158 celebrity videos collected from youtube with different age, ethic group and gender, and 795 DeepFake videos synthesized with these real videos. 
 
 The demo video can be viewed here:
 
-[![youtubev_video](https://img.youtube.com/.jpg)](https://www.youtube.com/)
+[![youtubev_video](src/cover.png)](https://youtu.be/vLTiluewGQY)
 
 
 ## Celeb-DF Dataset
 #### Real Videos
 The real videos are collected from YouTube, which are split into two sets. 
-The first set (*Real<sub>1</sub>*) contains 158 videos of 13 celebrities including 
-different gender and skin color. The second set (*Real<sub>2</sub>*) includes 250 videos, 
+The first set (*Real<sub>1</sub>*) contains 158 videos of 13 celebrities. The second set (*Real<sub>2</sub>*) includes 250 videos, 
 where each video contains a different subject. 
 
 #### Synthesized Videos
@@ -81,10 +80,10 @@ IEEE International Conference on Computer Vision (ICCV), 2019
 ## Download
 If you would like to access the Celeb-DF dataset, 
 please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
-and send it to [deepfakeforensics@gmail.com](). The download link will be sent you once the form is accepted.
+and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
 
 ## Citation
-Please cite our [paper]() in your publications if the DFF dataset is used in your research:
+Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
 ```
 @inproceedings{Li2019celebdff,
 	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
@@ -93,5 +92,3 @@ Please cite our [paper]() in your publications if the DFF dataset is used in you
 	year = {2019}
 }
 ```
-## Note
-what else we need to tell?
