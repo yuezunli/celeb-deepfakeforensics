@@ -4,7 +4,7 @@
 **DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
 The Celeb-DF dataset includes 158 celebrity videos collected from youtube with different age, ethic group and gender, and 795 DeepFake videos synthesized with these real videos. 
 
-The demo video can be viewed here:
+The demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
 
 <a href="https://youtu.be/vLTiluewGQY">
 <img src="src/cover.png" width="450" height="300" title="Video Demo" alt="Video Demo">
