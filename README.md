@@ -31,7 +31,7 @@ Celeb-DFF
 ```
 
 ## Evaluation
-<img src="src/eval.png" alt="eval" width="200"/>
+<img src="src/eval.png" alt="eval" width="400"/>
 
 
 ## Download
