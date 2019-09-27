@@ -31,8 +31,36 @@ Celeb-DFF
 ```
 
 ## Evaluation
+Based on the Celeb-DFF dataset, we evaluate the performance of several recent 
+DeepFake detection methods that have code publicly available.
+
 <img src="src/eval.png" alt="eval" width="400"/>
 
+* Two-stream: Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
+IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017
+
+* MesoNet: Afchar, Darius and Nozick, Vincent and Yamagishi, Junichi and Echizen, Isao.
+"MesoNet: a Compact Facial Video Forgery Detection Network", IEEE International Workshop on Information Forensics and Security (WIFS), 2018
+
+* HeadPose: Yang, Xin and Li, Yuezun and Lyu, Siwei. 
+"Exposing Deep Fakes Using Inconsistent Head Poses",
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019  
+
+* Face Warping Artifacts (FWA): Li, Yuezun and Lyu, Siwei.
+"Exposing DeepFake Videos By Detecting Face Warping Artifacts",
+IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019  
+
+* Visual Artifacts (VA): Matern, Falko and Riess, Christian and Stamminger, Marc.
+"Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations",
+IEEE Winter Applications of Computer Vision Workshops (WACVW), 2019
+
+* Multi-task: Nguyen, Huy H and Fang, Fuming and Yamagishi, Junichi and Echizen, Isao.
+"Multi-task Learning For Detecting and Segmenting Manipulated Facial Images and Videos",
+arXiv preprint arXiv:1906.06876, 2019
+
+* Xception: Andreas Rössler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nießner.
+"FaceForensics++: Learning to Detect Manipulated Facial Images",
+IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Download
 If you would like to access the DFF dataset, 
