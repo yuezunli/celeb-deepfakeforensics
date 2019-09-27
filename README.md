@@ -6,8 +6,9 @@ The Celeb-DF dataset includes 158 celebrity videos collected from youtube with d
 
 The demo video can be viewed here:
 
-[![youtubev_video](src/cover.png =250x250)](https://youtu.be/vLTiluewGQY)
-
+<a href="https://youtu.be/vLTiluewGQY">
+<img src="src/cover.png" width="450" height="250" title="Video Demo" alt="Video Demo">
+</a>
 
 ## Celeb-DF Dataset
 #### Real Videos
