@@ -86,7 +86,7 @@ and send it to [deepfakeforensics@gmail.com](). The download link will be sent t
 ## Citation
 Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
 ```
-@inproceedings{Li2019celebdff,
+@inproceedings{Li2019celebdf,
 	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
 	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
 	booktitle= {ArXiv},
