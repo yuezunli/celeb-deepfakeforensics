@@ -27,7 +27,6 @@ Celeb-DF
 |--- Real_2
 |--- deepfake # Synthesized videos from Real_1
 |--- test.txt # Videos used for testing
-|--- summary_release.csv # Summary of each video including [label, video name, target name, donor name]
 ```
 
 #### Evaluation
