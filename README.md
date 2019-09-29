@@ -80,7 +80,7 @@ IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Download
 If you would like to access the Celeb-DF dataset, 
-please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
+please fill out [this form](https://drive.google.com/open?id=1QWk__2EY8_vwFnLiZmjHYtQmaCccy5ht)
 and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
 
 ## Citation
