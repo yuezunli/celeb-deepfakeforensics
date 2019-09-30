@@ -38,7 +38,7 @@ Based on the Celeb-DF dataset, we evaluate the performance of several recent
 DeepFake detection methods that have code publicly available. Since not all methods have the code for training,
 we use the released model performed on all datsets for evaluation.
 
-<img src="src/eval.png" alt="eval" width="400"/>
+<img src="src/eval.png" alt="eval" width="400" class="center"/>
 
 ## Citation
 Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
