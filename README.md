@@ -63,7 +63,7 @@ remove corresponding information from the dataset.
 
 
 ## Reference
-
+<sub>
 [1] Afchar, Darius and Nozick, Vincent and Yamagishi, Junichi and Echizen, Isao.
 "MesoNet: a Compact Facial Video Forgery Detection Network", IEEE International Workshop on Information Forensics and Security (WIFS), 2018
 </br>
@@ -91,5 +91,4 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 </br>
 [8] Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017
-
 
