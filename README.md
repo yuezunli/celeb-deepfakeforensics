@@ -40,6 +40,13 @@ we use the released model performed on all datsets for evaluation.
 
 <img src="src/eval.png" alt="eval" width="400"/>
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 ## Citation
 Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
 ```
