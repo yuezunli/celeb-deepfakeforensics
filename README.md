@@ -1,10 +1,8 @@
 # Celeb-DF: A New Dataset for DeepFake Forensics
 
-Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu<sup>1</sup>](http://www.cs.albany.edu/~lsw/)
-
+Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu<sup>1</sup>](http://www.cs.albany.edu/~lsw/)</br>
 <sup>1</sup> University at Albany, State University of New York, USA </br>
-<sup>2</sup> University of Chinese Academy of Sciences, China
-
+<sup>2</sup> University of Chinese Academy of Sciences, China</br>
 [[Paper]]()
 ## Overview
 **DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
