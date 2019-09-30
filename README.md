@@ -5,6 +5,7 @@ Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup
 <sup>1</sup> University at Albany, State University of New York, USA </br>
 <sup>2</sup> University of Chinese Academy of Sciences, China
 
+[[Paper]]()
 ## Overview
 **DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
 The Celeb-DF dataset includes 158 celebrity videos collected from YouTube with different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos. 
