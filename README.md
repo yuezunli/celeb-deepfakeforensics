@@ -40,16 +40,6 @@ we use the released model performed on all datsets for evaluation.
 
 <img src="src/eval.png" alt="eval" width="400"/>
 
-<center>
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-</center>
-
 ## Citation
 Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
 ```
@@ -70,32 +60,32 @@ remove corresponding information from the dataset.
 
 ## Reference
 
-[4] Afchar, Darius and Nozick, Vincent and Yamagishi, Junichi and Echizen, Isao.
+[1] Afchar, Darius and Nozick, Vincent and Yamagishi, Junichi and Echizen, Isao.
 "MesoNet: a Compact Facial Video Forgery Detection Network", IEEE International Workshop on Information Forensics and Security (WIFS), 2018
 </br>
-[11] Korshunov, Pavel and Marcel, Sebastien.
+[2] Korshunov, Pavel and Marcel, Sebastien.
 "DeepFakes: a New Threat to Face Recognition? Assessment and Detection",
 arXiv preprint arXiv:1812.08685, 2018 </br>
-[13] Li, Yuezun and Lyu, Siwei.
+[3] Li, Yuezun and Lyu, Siwei.
 "Exposing DeepFake Videos By Detecting Face Warping Artifacts",
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019 </br>
-[15] Matern, Falko and Riess, Christian and Stamminger, Marc.
+[4] Matern, Falko and Riess, Christian and Stamminger, Marc.
 "Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations",
 IEEE Winter Applications of Computer Vision Workshops (WACVW), 2019
 </br>
-[16] Nguyen, Huy H and Fang, Fuming and Yamagishi, Junichi and Echizen, Isao.
+[5] Nguyen, Huy H and Fang, Fuming and Yamagishi, Junichi and Echizen, Isao.
 "Multi-task Learning For Detecting and Segmenting Manipulated Facial Images and Videos",
 arXiv preprint arXiv:1906.06876, 2019
 </br>
-[18] Andreas Rössler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nießner.
+[6] Andreas Rössler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nießner.
 "FaceForensics++: Learning to Detect Manipulated Facial Images",
 IEEE International Conference on Computer Vision (ICCV), 2019
 </br>
-[22] Yang, Xin and Li, Yuezun and Lyu, Siwei. 
+[7] Yang, Xin and Li, Yuezun and Lyu, Siwei. 
 "Exposing Deep Fakes Using Inconsistent Head Poses",
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019 
 </br>
-[23] Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
+[8] Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017
 
 
