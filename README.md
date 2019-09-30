@@ -25,7 +25,7 @@ and send it to [deepfakeforensics@gmail.com](). The download link will be sent t
 Celeb-DF
 |--- Celeb-real # Celebrity videos downloaded from YouTube
 |--- YouTube-real # Additional videos downloaded from YouTube
-|--- Celeb-DF # Synthesized videos from Celeb-real
+|--- Celeb-synthesis # Synthesized videos from Celeb-real
 |--- List_of_testing_videos.txt 
 ```
 
