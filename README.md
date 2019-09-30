@@ -11,9 +11,11 @@ The Celeb-DF dataset includes 158 celebrity videos collected from YouTube with d
 
 A demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
 
+<p align="center">
 <a href="https://youtu.be/vLTiluewGQY">
 <img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
+</p>
 
 
 ## Celeb-DF Dataset
@@ -38,7 +40,9 @@ Based on the Celeb-DF dataset, we evaluate the performance of several recent
 DeepFake detection methods that have code publicly available. Since not all methods have the code for training,
 we use the released model performed on all datsets for evaluation.
 
-<img src="src/eval.png" alt="eval" width="400"/>
+<p align="center">
+  <img src="src/eval.png" alt="eval" width="400"/>
+</p>
 
 ## Citation
 Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
