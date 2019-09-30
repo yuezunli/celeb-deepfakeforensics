@@ -64,7 +64,6 @@ remove corresponding information from the dataset.
 
 ## Reference
 
-<font size="2">This is some text size 2!</font>
 [1] Afchar, Darius and Nozick, Vincent and Yamagishi, Junichi and Echizen, Isao.
 "MesoNet: a Compact Facial Video Forgery Detection Network", IEEE International Workshop on Information Forensics and Security (WIFS), 2018
 </br>
