@@ -11,18 +11,21 @@ A demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
 <img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
 
 ## Celeb-DF Dataset
+
+#### Download
+If you would like to access the Celeb-DF dataset, 
+please fill out [this form](https://drive.google.com/open?id=1QWk__2EY8_vwFnLiZmjHYtQmaCccy5ht)
+and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
+
 
 #### Dataset Structure
 ```commandline
 Celeb-DF
-|--- Celeb-real #
-|--- YouTube-real # Add
-|--- Celeb-DF # Synthesized videos from Celeb
+|--- Celeb-real # Celebrity videos downloaded from YouTube
+|--- YouTube-real # Additional videos downloaded from YouTube
+|--- Celeb-DF # Synthesized videos from Celeb-real
 |--- List_of_testing_videos.txt 
 ```
 
@@ -33,7 +36,24 @@ we use the released model performed on all datsets for evaluation.
 
 <img src="src/eval.png" alt="eval" width="400"/>
 
-__Previous Datasets__
+## Citation
+Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
+```
+@inproceedings{Li2019celebdf,
+	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
+	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
+	booktitle= {ArXiv},
+	year = {2019}
+}
+```
+
+## Privacy Notice
+xxxxxxxxx
+
+
+## Reference
+<font size="2"> 
+
 * UADFV: Yang, Xin and Li, Yuezun and Lyu, Siwei. 
 "Exposing Deep Fakes Using Inconsistent Head Poses",
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019 
@@ -45,9 +65,6 @@ arXiv preprint arXiv:1812.08685, 2018
 * FaceForensics++ (FF++): Andreas Rössler and Davide Cozzolino and Luisa Verdoliva and Christian Riess and Justus Thies and Matthias Nießner.
 "FaceForensics++: Learning to Detect Manipulated Facial Images",
 IEEE International Conference on Computer Vision (ICCV), 2019
-
-
-__Detection Methods__  
 
 * Two-stream: Zhou, Peng and Han, Xintong and Morariu, Vlad I and Davis, Larry S. "Two-stream neural networks for tampered face detection", 
 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017
@@ -75,18 +92,5 @@ arXiv preprint arXiv:1906.06876, 2019
 "FaceForensics++: Learning to Detect Manipulated Facial Images",
 IEEE International Conference on Computer Vision (ICCV), 2019
 
-## Download
-If you would like to access the Celeb-DF dataset, 
-please fill out [this form](https://drive.google.com/open?id=1QWk__2EY8_vwFnLiZmjHYtQmaCccy5ht)
-and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
 
-## Citation
-Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
-```
-@inproceedings{Li2019celebdf,
-	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
-	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
-	booktitle= {ArXiv},
-	year = {2019}
-}
-```
+</font> 
