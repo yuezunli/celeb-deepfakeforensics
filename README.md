@@ -1,32 +1,29 @@
 # Celeb-DF: A New Dataset for DeepFake Forensics
 
+Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and [Siwei Lyu](http://www.cs.albany.edu/~lsw/)
 ## Overview
 **DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
-The Celeb-DF dataset includes 158 celebrity videos collected from youtube with different age, ethic group and gender, and 795 DeepFake videos synthesized with these real videos. 
+The Celeb-DF dataset includes 158 celebrity videos collected from YouTube with different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos. 
 
-The demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
+A demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
 
 <a href="https://youtu.be/vLTiluewGQY">
-<img src="src/cover.png" width="450" height="300" title="Video Demo" alt="Video Demo">
+<img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
 
-## Celeb-DF Dataset
-#### Real Videos
-The real videos are collected from YouTube, which are split into two sets. 
-The first set (*Real<sub>1</sub>*) contains 158 videos of 13 celebrities. The second set (*Real<sub>2</sub>*) includes 250 videos, 
-where each video contains a different subject. 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
-#### Synthesized Videos
-For each real video of a particular subject from the *Real<sub>1</sub>* set, we select multiple donors of the other subjects 
-to create synthesized videos using the synthesis model trained between this target subject and each of the donor subjects. 
+## Celeb-DF Dataset
 
 #### Dataset Structure
 ```commandline
 Celeb-DF
-|--- Real_1 
-|--- Real_2
-|--- deepfake # Synthesized videos from Real_1
-|--- test.txt # Videos used for testing
+|--- Celeb-real #
+|--- YouTube-real # Add
+|--- Celeb-DF # Synthesized videos from Celeb
+|--- List_of_testing_videos.txt 
 ```
 
 #### Evaluation
