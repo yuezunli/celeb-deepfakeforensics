@@ -43,7 +43,7 @@ Please cite our [paper](https://arxiv.org/abs/1909.12962) in your publications i
 @article{Li2019celebdf,
 	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
 	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
-	Journal= {ArXiv},
+	Journal= {arXiv},
 	year = {2019}
 }
 ```
