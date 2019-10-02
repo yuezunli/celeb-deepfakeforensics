@@ -18,6 +18,15 @@ If you would like to access the Celeb-DF dataset,
 please fill out [this form](https://drive.google.com/open?id=1zQSTM1Vjc5iJyI1_0pncOzuTOCwLSWld)
 and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
 
+Please cite our [paper](https://arxiv.org/abs/1909.12962) in your publications if the Celeb-DF dataset is used in your research:
+```
+@article{Li2019celebdf,
+	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
+	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
+	Journal= {arXiv},
+	year = {2019}
+}
+```
 
 ### Dataset Structure
 ```commandline
@@ -38,17 +47,6 @@ we use the released model performed on all datsets for evaluation.
 </p>
 
 ## Privacy Statement
-Please cite our [paper](https://arxiv.org/abs/1909.12962) in your publications if the Celeb-DF dataset is used in your research:
-```
-@article{Li2019celebdf,
-	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
-	title = {Celeb-DF: A New Dataset for DeepFake Forensics},
-	Journal= {arXiv},
-	year = {2019}
-}
-```
-
-## Lisence
 This dataset is released under the [Terms to Use Celeb-DF](https://drive.google.com/open?id=1zQSTM1Vjc5iJyI1_0pncOzuTOCwLSWld), which
 is provided "as it is" and we are not responsible for any subsequence from using this dataset.
 If you feel uncomfortable about your identity shown in this dataset, please contact us and we will 
