@@ -1,29 +1,25 @@
 # Celeb-DF: A New Dataset for DeepFake Forensics
 
 Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu<sup>1</sup>](http://www.cs.albany.edu/~lsw/)</br>
-<sup>1</sup> University at Albany, State University of New York, USA </br>
+<sup>1</sup> University at Albany, State University of New York, USA; 
 <sup>2</sup> University of Chinese Academy of Sciences, China</br>
-[[Paper]]()
-## Overview
-**DeepFake Forensics (Celeb-DF)** dataset contains  real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
-The Celeb-DF dataset includes 158 celebrity videos collected from YouTube with different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos. 
+[Project page](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)
 
-A demo video can be viewed [here](https://youtu.be/vLTiluewGQY):
+**DeepFake Forensics (Celeb-DF)** dataset contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos.
 
 <a href="https://youtu.be/vLTiluewGQY">
 <img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
 
+Video Demo of our dataset
 
-## Celeb-DF Dataset
-
-#### Download
+### Download
 If you would like to access the Celeb-DF dataset, 
 please fill out [this form](https://drive.google.com/open?id=1zQSTM1Vjc5iJyI1_0pncOzuTOCwLSWld)
 and send it to [deepfakeforensics@gmail.com](). The download link will be sent to you once the form is accepted.
 
 
-#### Dataset Structure
+### Dataset Structure
 ```commandline
 Celeb-DF
 |--- Celeb-real # Celebrity videos downloaded from YouTube
@@ -32,7 +28,7 @@ Celeb-DF
 |--- List_of_testing_videos.txt 
 ```
 
-#### Evaluation
+### Evaluation
 Based on the Celeb-DF dataset, we evaluate the performance of several recent 
 DeepFake detection methods that have code publicly available. Since not all methods have the code for training,
 we use the released model performed on all datsets for evaluation.
@@ -41,8 +37,8 @@ we use the released model performed on all datsets for evaluation.
   <img src="src/eval.png" alt="eval" width="400"/>
 </p>
 
-## Citation
-Please cite our [paper]() in your publications if the Celeb-DF dataset is used in your research:
+## Privacy Statement
+Please cite our [paper](https://arxiv.org/abs/1909.12962) in your publications if the Celeb-DF dataset is used in your research:
 ```
 @article{Li2019celebdf,
 	author = {Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu},
