@@ -49,7 +49,10 @@ we use the released model performed on all datsets for evaluation.
 ## Privacy Statement
 This dataset is released under the [Terms to Use Celeb-DF](https://drive.google.com/open?id=1zQSTM1Vjc5iJyI1_0pncOzuTOCwLSWld), which
 is provided "as it is" and we are not responsible for any subsequence from using this dataset.
-If you feel uncomfortable about your identity shown in this dataset, please contact us and we will 
+All original videos of the Celeb-DF dataset are obtained from the Internet which
+are not property of the authors or the authors’ affiliated institutions. Neither the
+authors or the authors’ affiliated institution are responsible for the content nor the
+meaning of these videos. If you feel uncomfortable about your identity shown in this dataset, please contact us and we will 
 remove corresponding information from the dataset. 
 
 
