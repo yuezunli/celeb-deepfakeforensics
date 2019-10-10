@@ -13,7 +13,7 @@ Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup
 </a>
 -->
 
-![src/cover.png](src/demo.mp4)
+![](src/demo.mp4)
 
 Video Demo of our dataset
 
