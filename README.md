@@ -7,13 +7,9 @@ Yuezun Li<sup>1</sup>, Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup
 
 **DeepFake Forensics (Celeb-DF)** dataset contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos.
 
-<!--
 <a href="https://youtu.be/vLTiluewGQY">
 <img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
--->
-
-![](src/demo.mp4)
 
 Video Demo of our dataset
 
