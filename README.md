@@ -46,7 +46,7 @@ DeepFake detection methods that have code publicly available. Since not all meth
 we use the released model performed on all datsets for evaluation.
 
 <p align="center">
-  <img src="src/eval.png" alt="eval" width="400"/>
+  <img src="Celeb-DF-v1/eval.png" alt="eval" width="400"/>
 </p>
 
 ## Privacy Statement

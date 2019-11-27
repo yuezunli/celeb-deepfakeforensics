@@ -60,7 +60,7 @@ remove corresponding information from the dataset.
 ### Video Demo
 
 <a href="https://youtu.be/vLTiluewGQY">
-<img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
+<img src="../src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
 
 ### Log
