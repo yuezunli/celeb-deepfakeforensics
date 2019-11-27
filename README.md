@@ -1,5 +1,5 @@
 
-## ***(New!)*** Check [here](Celeb-DF-v2/README.md) for Celeb-DF (v2) dataset (5639 DeepFake videos included!). 
+## ***(New!)*** Check [here](Celeb-DF-v2/README.md) for Celeb-DF (v2) dataset (5000+ DeepFake videos included!). 
 
 # Celeb-DF (v1): A New Dataset for DeepFake Forensics
 
