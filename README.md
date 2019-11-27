@@ -1,5 +1,5 @@
 
-### **(New!)** Check [here](Celeb-DF-v2/README.md) for Celeb-DF (v2) dataset (5639 DeepFake videos included!). 
+## ***(New!)*** Check [here](Celeb-DF-v2/README.md) for Celeb-DF (v2) dataset (5639 DeepFake videos included!). 
 
 # Celeb-DF: A New Dataset for DeepFake Forensics
 
@@ -11,7 +11,7 @@ Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu
 Celeb-DF dataset contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos.
 
 <a href="https://youtu.be/vLTiluewGQY">
-<img src="../src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
+<img src="src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
 </a>
 
 Video Demo of our dataset
@@ -46,7 +46,7 @@ DeepFake detection methods that have code publicly available. Since not all meth
 we use the released model performed on all datsets for evaluation.
 
 <p align="center">
-  <img src="eval.png" alt="eval" width="400"/>
+  <img src="src/eval.png" alt="eval" width="400"/>
 </p>
 
 ## Privacy Statement
