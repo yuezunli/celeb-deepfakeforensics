@@ -38,12 +38,12 @@ Celeb-DF
 |--- List_of_testing_videos.txt # 518 videos
 ```
 ### Comparison with Other Datasets
-<img src="basic_info.png" alt="basic_info" width="500"/>
+<img src="basic_info.png" alt="" width="500"/>
 
 See [paper](https://arxiv.org/abs/1909.12962) for details.
 
 ### Average AUC Performance of SOTA Detection Methods on Each Dataset
-<img src="basic_info.png" alt="basic_info" width="500"/>
+<img src="avg_auc.jpg" alt="" width="500"/>
 
 See [paper](https://arxiv.org/abs/1909.12962) for details.
 
@@ -60,7 +60,7 @@ remove corresponding information from the dataset.
 ### Video Demo
 
 <a href="https://youtu.be/vLTiluewGQY">
-<img src="../src/cover.png" width="350" height="250" title="Video Demo" alt="Video Demo">
+<img src="../src/cover.png" width="500" title="Video Demo" alt="Video Demo">
 </a>
 
 ### Log
