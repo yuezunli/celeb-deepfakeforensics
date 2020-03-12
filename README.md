@@ -48,7 +48,7 @@ See [paper](https://arxiv.org/abs/1909.12962) for details.
 See [paper](https://arxiv.org/abs/1909.12962) for details.
 
 ### Privacy Statement
-This dataset is released under the [Terms to Use Celeb-DF](https://drive.google.com/open?id=1zQSTM1Vjc5iJyI1_0pncOzuTOCwLSWld), which
+This dataset is released under the [Terms to Use Celeb-DF](https://forms.gle/2jYBby6y1FBU3u6q9), which
 is provided "as it is" and we are not responsible for any subsequence from using this dataset.
 All original videos of the Celeb-DF dataset are obtained from the Internet which
 are not property of the authors or the authors’ affiliated institutions. Neither the
