@@ -1,6 +1,6 @@
 # Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics
 
-[Yuezun Li<sup>1</sup>](https://www.albany.edu/~yl149995/), 
+[Yuezun Li<sup>1</sup>](https://yuezunli.github.io/), 
 Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu<sup>1</sup>](http://www.cs.albany.edu/~lsw/)</br>
 <sup>1</sup> University at Albany, State University of New York, USA; 
 <sup>2</sup> University of Chinese Academy of Sciences, China</br>
