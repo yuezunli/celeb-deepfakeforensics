@@ -1,7 +1,7 @@
 
 <p>
 <img src="src/news.jpg" alt="news" width="150"/>
-<font size='5'><strong><em>We are releasing DeepFake Game Competition (DFGC) dataset <a href="https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset">[here]</a></em></strong></font> 
+<font size='7'><strong><em>We are releasing DeepFake Game Competition (DFGC) dataset <a href="https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset">[here]</a></em></strong></font> 
 </p>
 
 ----
