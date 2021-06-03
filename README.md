@@ -1,10 +1,8 @@
 
-<img src="src/news.jpg" alt="news" width="150"/>
 
-<!-- <font size='5'><strong><em>We are releasing DeepFake Game Competition (DFGC) dataset <a href="https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset">[here]</a></em></strong></font>  -->
-## **We are releasing DeepFake Game Competition (DFGC) dataset [[here]](https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset)**
 
-----
+## <img src="src/news.jpg" alt="news" width="150"/> **We are releasing DeepFake Game Competition (DFGC) dataset [[here]](https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset)**
+
 
 # Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics
 
