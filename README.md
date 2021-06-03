@@ -1,10 +1,13 @@
+
+<p>
+<img src="src/news.jpg" alt="news" width="150"/>
+<font size='5'><strong><em>We are releasing DeepFake Game Competition (DFGC) dataset <a href="https://github.com/bomb2peng/DFGC_starterkit/tree/master/DFGC-21%20dataset">[here]</a></em></strong></font> 
+</p>
+
+----
+
 # Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics
 
-[Yuezun Li<sup>1</sup>](https://yuezunli.github.io/), 
-Xin Yang<sup>1</sup>, Pu Sun<sup>2</sup>, Honggang Qi<sup>2</sup> and [Siwei Lyu<sup>1</sup>](http://www.cs.albany.edu/~lsw/)</br>
-<sup>1</sup> University at Albany, State University of New York, USA; 
-<sup>2</sup> University of Chinese Academy of Sciences, China</br>
-[[Project page](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)]
 
 <img src="Celeb-DF-v2/demo.png" alt="demo" width="600"/>
 
@@ -16,8 +19,7 @@ See [paper](https://arxiv.org/abs/1909.12962) for details (full paper will be up
 
 ### Download
 If you would like to access the Celeb-DF dataset, 
-please fill out [this form](https://forms.gle/2jYBby6y1FBU3u6q9)
-. The download link will be sent to you once the form is accepted. If you have any questions, please send email to [deepfakeforensics@gmail.com]() 
+please fill out this [google form](https://forms.gle/2jYBby6y1FBU3u6q9) or [tencent form](https://wj.qq.com/s2/8540155/b5d9/). The download link will be sent to you once the form is accepted. If you have any questions, please send email to [deepfakeforensics@gmail.com]() 
 
 Please cite our paper in your publications if the Celeb-DF dataset is used in your research:
 ```
